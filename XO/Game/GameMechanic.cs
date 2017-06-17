@@ -121,6 +121,7 @@ namespace XO.Game
         }
         private void checkGameOver()
         {
+
             Task checkGameOver = new Task(delegate ()
             {
                 bool exit = false;
