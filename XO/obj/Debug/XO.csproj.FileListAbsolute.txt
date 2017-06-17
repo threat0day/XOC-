@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\bin\Debug\XO.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\bin\Debug\XO.exe
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\bin\Debug\XO.pdb
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\XO.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\XO_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\XO_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\XO.g.resources
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\XO.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\XO.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\XO.exe
+c:\users\admin\documents\visual studio 2017\Projects\XO\XO\obj\Debug\XO.pdb

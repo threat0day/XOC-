@@ -1,0 +1,13 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\bin\Release\XO.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\bin\Release\XO.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\bin\Release\XO.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\MainWindow.g.cs
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\App.g.cs
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\XO_MarkupCompile.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\XO_MarkupCompile.lref
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\MainWindow.baml
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\XO.g.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\XO.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\XO.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\XO.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\XO\XO\obj\Release\XO.pdb

@@ -1,0 +1,9 @@
+c:\Users\Admin\documents\visual studio 2017\Projects\XO\testEvent\obj\Debug\testEvent.csprojResolveAssemblyReference.cache
+c:\Users\Admin\documents\visual studio 2017\Projects\XO\testEvent\obj\Debug\testEvent.Form1.resources
+c:\Users\Admin\documents\visual studio 2017\Projects\XO\testEvent\obj\Debug\testEvent.Properties.Resources.resources
+c:\Users\Admin\documents\visual studio 2017\Projects\XO\testEvent\obj\Debug\testEvent.csproj.GenerateResource.Cache
+c:\Users\Admin\documents\visual studio 2017\Projects\XO\testEvent\bin\Debug\testEvent.exe.config
+c:\Users\Admin\documents\visual studio 2017\Projects\XO\testEvent\bin\Debug\testEvent.exe
+c:\Users\Admin\documents\visual studio 2017\Projects\XO\testEvent\bin\Debug\testEvent.pdb
+c:\Users\Admin\documents\visual studio 2017\Projects\XO\testEvent\obj\Debug\testEvent.exe
+c:\Users\Admin\documents\visual studio 2017\Projects\XO\testEvent\obj\Debug\testEvent.pdb
